@@ -1,2 +1,3 @@
 # my-blog
-Blog using django framework
+Blog using django framework.
+
